@@ -9,12 +9,12 @@ h1{
 .row{
     
     margin:20px;
-    height: 200px;
     overflow: auto;
 }
 #Chicken,#Beef,#Sushi{
     background-color: grey;
     border: 2px solid black;
+    margin-top: 20px;
     
 }
 .label{
